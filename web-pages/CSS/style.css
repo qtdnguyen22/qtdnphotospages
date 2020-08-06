@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  /* padding: 10px; */
+  bottom: 0;
+  right: 0;
+}
+
+
+img {
+  max-width: 100%;
+  height: fill;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
